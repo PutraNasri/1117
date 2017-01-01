@@ -15,6 +15,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".control" />
+        <activity android:name=".monitoring" />
+        <activity android:name=".report"></activity>
     </application>
 
 </manifest>
