@@ -16,7 +16,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".control" />
-        <activity android:name=".monitoring" />
+        <activity android:name=".monitoring"
+            android:screenOrientation="landscape"/>
         <activity android:name=".report"></activity>
     </application>
 
